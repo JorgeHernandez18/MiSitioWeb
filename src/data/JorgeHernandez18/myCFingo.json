@@ -1,0 +1,22 @@
+{
+    "data": {
+        "email": "herlasso18@gmail.com",
+        "username": "herlasso18",
+        "certificates": [],
+        "articles": [],
+        "courses": [
+            {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "50.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+            },
+            {
+                "title": "Curso de Fundamentos de React",
+                "progress": "33.0",
+                "url": "http://codigofacilito.com/courses/react-intro-gratis"
+            }
+        ],
+        "finished_courses": []
+    },
+    "errors": []
+}

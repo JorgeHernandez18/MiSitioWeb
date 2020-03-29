@@ -1,0 +1,18 @@
+{
+    "slug": "presencial",
+    "title": "Formación academica",
+    "descripcion": "Formación academica, grados de estudio e instituciones a las que asistí",
+    "items":[
+        {
+            "name":"Universidad Francisco de Paula Santander",
+            "degree": "Ingenieria de Sistemas",
+            "score": "En proceso..."
+        },
+        {
+            "name": "Institución educativa Colegio San Bartolomé",
+            "degree": "Bachillerato",
+            "score": "XX"
+        }
+    ]
+
+}

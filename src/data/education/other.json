@@ -1,0 +1,19 @@
+{
+"slug": "others",
+    "title": "Otros logros académicos",
+    "descripcion": "Talleres y conferencias en las que he participado",
+    "items":[
+      
+        {
+            "name": "Curso básico de Python",
+            "degree": "Python Coder",
+            "score": "10/10"
+        },
+        {
+            "name": "Tecnico en Ingles",
+            "degree": "Tecnico en Ingles",
+            "score": "4.5/5.0"
+        }
+    ]
+
+}
