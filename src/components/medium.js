@@ -25,7 +25,7 @@ export default() =>{
     },[])
 
     return(
-        <div className="max-w-4xl mx-auto overflow-x-scroll">
+        <div className="max-w-4xl mx-auto overflow-x-scroll mt-8">
         <Posts 
         data={posts}
         card={Post}

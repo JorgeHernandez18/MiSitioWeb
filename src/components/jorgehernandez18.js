@@ -20,9 +20,9 @@ export default () => {
     return (
         <section>
             <div className="mt-24">
-                <div className="max-w-4xl mx-auto">
+                <div className="max-w-4xl mx-auto mt-8">
                     <h2 className="text-3xl font-bold text-center">Mis cursos online en codigofacilito</h2>
-                    <div className="flex mt-8">
+                    <div className="flex">
                         {
                             data.jorgeHernandez18Json.data.courses.map(courses => (
                                 <div className="shadow p-8 bg-white mr-4">
@@ -37,7 +37,7 @@ export default () => {
                         }
                     </div>
 
-                    <h2 className="text-3xl font-bold text-center">Mis Certificados online en codigofacilito</h2>
+                    <h2 className="text-3xl font-bold text-center mt-4">Mis Certificados online en codigofacilito</h2>
                     <p className="text-center font-bold text-red-700">Aún no tengo Certificados, pero pronto los tendré :D</p>
 
 
