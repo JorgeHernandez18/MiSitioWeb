@@ -22,10 +22,10 @@ export default (props) =>{
                 data.allEducationJson.edges.map((element,index)=>{
                    const { node } = element;
                    return(
-                    <article className="flex-1 bg-white shadow mt-4 max-w-sm p-4">
+                    <article className="flex-1 bg-white shadow mt-4 max-w-sm p-4 mr-4">
                         <header >
                             <p className="font-bold leading-loose">{node.title}</p>
-                            <div className="mt-8">
+                            <div className="mt-6">
                                 <p className="font-light">{node.descripcion}</p>
                                 <Link to={`/${node.slug}`} className="btn inline-block mt-4">Ir</Link>
                             </div>
